@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1677037721 source:c:\users\amaur\documents\gatodomestico\main.cpp
+	<iostream>
+	"Lista.h"
+	"GatoDomestico.h"
+
+1677037506 c:\users\amaur\documents\gatodomestico\include\lista.h
+	"GatoDomestico.h"
+
+1677037506 c:\users\amaur\documents\gatodomestico\include\gatodomestico.h
+	<iostream>
+
+1677037505 source:c:\users\amaur\documents\gatodomestico\src\gatodomestico.cpp
+	<iostream>
+	"GatoDomestico.h"
+
+1677037506 source:c:\users\amaur\documents\gatodomestico\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
